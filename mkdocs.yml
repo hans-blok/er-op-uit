@@ -1,0 +1,80 @@
+site_name: "Er op uit"
+site_description: "Uitje Limburg, 29 december 2026 t/m 2 januari 2027"
+site_author: "Hans"
+site_url: ""
+
+docs_dir: "artefacten/01"
+exclude_docs: |
+  readme.md
+site_dir: "site"
+
+theme:
+  name: "material"
+  language: "nl"
+  features:
+    - navigation.instant
+    - navigation.top
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - toc.integrate
+    - search.suggest
+    - search.highlight
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  font: false
+
+extra_css:
+  - assets/custom.css?v=1
+
+plugins:
+  - search:
+      lang: nl
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: false
+      toc_depth: 2
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+nav:
+  - Overzicht: index.md
+  - Dagplanning:
+      - "di 29 dec": dagen/dag-1.md
+      - "wo 30 dec": dagen/dag-2.md
+      - "do 31 dec": dagen/dag-3.md
+      - "vr 1 jan": dagen/dag-4.md
+      - "za 2 jan": dagen/dag-5.md
+  - Hotels: hotels.md
+  - Restaurants: restaurants.md
+  - Sightseeing: sightseeing.md
+  - Praktisch: praktisch.md
+
+extra:
+  social: []
+  generator: false
+
+copyright: "Open Source © 2026 Hans"
