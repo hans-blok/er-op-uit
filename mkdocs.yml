@@ -1,7 +1,7 @@
 site_name: "Er op uit"
 site_description: "Uitje Limburg, 29 december 2026 t/m 2 januari 2027"
 site_author: "Hans"
-site_url: ""
+site_url: "https://hans-blok.github.io/er-op-uit/"
 
 docs_dir: "artefacten/01"
 exclude_docs: |
@@ -68,6 +68,7 @@ nav:
       - "do 31 dec": dagen/dag-3.md
       - "vr 1 jan": dagen/dag-4.md
       - "za 2 jan": dagen/dag-5.md
+  - Eisen: eisen.md
   - Hotels: hotels.md
   - Restaurants: restaurants.md
   - Sightseeing: sightseeing.md
