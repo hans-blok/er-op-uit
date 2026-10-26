@@ -480,15 +480,24 @@ body,
   }
 }
 
-/* Hotels: smalle nr- en linkkolom, compacter op telefoon */
+/* Hotels: smalle nr- en linkkolom, compact zodat er minder gescrold hoeft te worden */
+.md-typeset .hotels-table table:not([class]) th,
+.md-typeset .hotels-table table:not([class]) td {
+  min-width: 0;
+  padding: 0.6em 0.6em;
+}
+
 .md-typeset .hotels-table table:not([class]) th:first-child,
 .md-typeset .hotels-table table:not([class]) td:first-child,
 .md-typeset .hotels-table--links table:not([class]) th:nth-child(2),
 .md-typeset .hotels-table--links table:not([class]) td:nth-child(2) {
   width: 1%;
-  min-width: 0;
-  padding-inline: 0.4rem;
+  padding-inline: 0.25em;
   text-align: center;
+  white-space: nowrap;
+}
+
+.md-typeset .hotels-table--links table:not([class]) td:nth-child(n+5):nth-child(-n+6) {
   white-space: nowrap;
 }
 
@@ -503,6 +512,13 @@ body,
 
   .md-typeset .hotels-table table:not([class]) th,
   .md-typeset .hotels-table table:not([class]) td {
-    padding: 0.5em 0.6em;
+    padding: 0.5em 0.4em;
+  }
+
+  .md-typeset .hotels-table table:not([class]) th:first-child,
+  .md-typeset .hotels-table table:not([class]) td:first-child,
+  .md-typeset .hotels-table--links table:not([class]) th:nth-child(2),
+  .md-typeset .hotels-table--links table:not([class]) td:nth-child(2) {
+    padding-inline: 0.15em;
   }
 }

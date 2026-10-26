@@ -7,13 +7,13 @@ Eisen: zie [eisen.md](eisen.md). Periode: di 29 dec 2026 t/m za 2 jan 2027 (4 na
 
 ## Overzicht, gesorteerd op prijs
 
-Bandbreedte: **400 tot 800 euro** voor 4 nachten. Een verblijf staat erin als de prijs zonder ontbijt binnen die bandbreedte valt. Gesorteerd van laag naar hoog op die prijs.
+Bandbreedte: **400 tot 800 euro** voor 4 nachten. Een verblijf staat erin als de prijs zonder ontbijt binnen die bandbreedte valt. Gesorteerd van laag naar hoog op die prijs. Alle prijzen in de tabel zijn voor 4 nachten.
 
 Invulregels ontbijt: biedt het verblijf geen ontbijt aan, dan staat "n.v.t." bij *met ontbijt*. Zit ontbijt er altijd in, dan staat "n.v.t." bij *zonder ontbijt*. Ontbijt is gerekend op ca. 25 euro per nacht (B&B) of ca. 35 euro (hotel) voor twee personen.
 
 <div class="hotels-table hotels-table--links" markdown="1">
 
-| # | 🔗 | Verblijf | Plaats | Segment | 4 nachten zonder ontbijt | 4 nachten met ontbijt | Basis prijs | Zelf ontbijt maken | Rustig |
+| # | 🔗 | Verblijf | Plaats | Segment | Zonder ontbijt | Met ontbijt | Basis | Zelf ontbijt | Rustig |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | [🔗](https://www.trivago.com/en-US/oar/bed-breakfast-het-kapelhuis-thorn?search=100-4752372) | Het Kapelhuis | Thorn (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | vredige sfeer, tuin |
 | 2 | [🔗](https://www.benbbijtantetoos.nl/) | B&B bij Tante Toos | Mamelis bij Vaals (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | ? |
