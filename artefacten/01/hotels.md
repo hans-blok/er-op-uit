@@ -1,42 +1,33 @@
 # Hotels en B&B's
 
-Eisen: zie [eisen.md](eisen.md). Periode: di 29 dec 2026 t/m za 2 jan 2027 (4 nachten).
+Eisen: zie [eisen.md](eisen.md). Periode: di 29 dec 2026 t/m za 2 jan 2027 (4 nachten, 2 personen).
 
 !!! warning "Niet geverifieerd"
-    Beschikbaarheid voor deze data is **niet** gecontroleerd en de uitrusting (magnetron, koffie, tweepersoonsbed) is alleen waar vermeld overgenomen uit zoekresultaten. Eerst navragen of boeken met filter op deze eisen.
+    Beschikbaarheid voor deze data is **niet** gecontroleerd. Uitrusting (zelf ontbijt maken, koffie, tweepersoonsbed) is alleen ingevuld als het in zoekresultaten vermeld stond, anders `?`. Alle prijzen zijn **schattingen**: geen enkele prijs komt van de website van het verblijf of een boekingssite.
 
-## Kandidaten
+## Overzicht, gesorteerd op prijs
 
-| Verblijf | Plaats | Magnetron | Koffie | 2p-bed | Rustig | Beschikbaar | Bron |
-|---|---|---|---|---|---|---|---|
-| Gastenverblijf 't Einde | Elsloo (NL) | ja, vermeld | niet vermeld | niet vermeld | rustige omgeving | ? | [zoekresultaat](https://www.kamermetontbijt.nl/bed-and-breakfast-limburg/zuid-limburg/) |
-| B&B Brookerhof | Zuid-Limburg, rand Heuvelland | combi-magnetron, vermeld | niet vermeld | niet vermeld | rand Heuvelland | ? | [website](https://brookerhof.nl/) |
-| Het Kapelhuis | Thorn | niet vermeld | niet vermeld | niet vermeld | vredige sfeer, tuin | ? | [Trivago](https://www.trivago.com/en-US/oar/bed-breakfast-het-kapelhuis-thorn?search=100-4752372) |
-| Thorn B&B | Thorn (Witte Stad) | niet vermeld | niet vermeld | niet vermeld | centrum, vermoedelijk minder rustig | ? | [website](https://www.thornbenb.nl/en/) |
-| B&B bij Tante Toos | Mamelis bij Vaals | niet vermeld | niet vermeld | niet vermeld | ? | ? | [website](https://www.benbbijtantetoos.nl/) |
-| De Lodge | Grote-Spouwen (BE-Limburg) | niet vermeld | Nespresso, vermeld | ja, vermeld | heuvel met uitzicht | ? | [zoekresultaat](https://www.cozycozy.com/nl/vakantiehuis-limburg-provincie) |
-| Ferienwohnung Südviertel | Aken (DE) | niet vermeld | niet vermeld | boxspring 180x200, vermeld | water-beschermingsgebied achter huis | ? | [ferienwohnungen.de](https://www.ferienwohnungen.de/apartments/europa/deutschland/aachen) |
+Bandbreedte: **400 tot 800 euro** voor 4 nachten. Een verblijf staat erin als de prijs zonder ontbijt binnen die bandbreedte valt. Gesorteerd van laag naar hoog op die prijs.
 
-Geen enkele kandidaat voldoet aantoonbaar aan alle eisen. 't Einde en Brookerhof scoren op de magnetron het best, De Lodge op koffie en bed.
+Invulregels ontbijt: biedt het verblijf geen ontbijt aan, dan staat "n.v.t." bij *met ontbijt*. Zit ontbijt er altijd in, dan staat "n.v.t." bij *zonder ontbijt*. Ontbijt is gerekend op ca. 25 euro per nacht (B&B) of ca. 35 euro (hotel) voor twee personen.
 
-## Prijsindicatie (2 personen, 4 nachten)
+| # | Verblijf | Plaats | Segment | 4 nachten zonder ontbijt | 4 nachten met ontbijt | Per nacht zonder / met | Basis prijs | Zelf ontbijt maken | Koffie | 2p-bed | Rustig | Bron |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | Het Kapelhuis | Thorn (NL) | B&B | ca. 400 | ca. 500 | ca. 100 / ca. 125 | schatting | ? | ? | ? | vredige sfeer, tuin | [link](https://www.trivago.com/en-US/oar/bed-breakfast-het-kapelhuis-thorn?search=100-4752372) |
+| 2 | B&B bij Tante Toos | Mamelis bij Vaals (NL) | B&B | ca. 400 | ca. 500 | ca. 100 / ca. 125 | schatting | ? | ? | ? | ? | [link](https://www.benbbijtantetoos.nl/) |
+| 3 | Ferienwohnung Südviertel | Aken (DE) | vakantiewoning | ca. 400 | n.v.t. | ca. 100 / n.v.t. | schatting | ? | ? | boxspring 180x200 | water-beschermingsgebied achter huis | [link](https://www.ferienwohnungen.de/apartments/europa/deutschland/aachen) |
+| 4 | Thorn B&B | Thorn, Witte Stad (NL) | B&B | ca. 420 | ca. 520 | ca. 105 / ca. 130 | schatting | ? | ? | ? | centrum, vermoedelijk minder rustig | [link](https://www.thornbenb.nl/en/) |
+| 5 | B&B Brookerhof | Zuid-Limburg, rand Heuvelland (NL) | B&B | ca. 460 | ca. 560 | ca. 115 / ca. 140 | schatting | ja, kitchenette met combi-magnetron | ? | ja, 210 cm | rand Heuvelland | [link](https://brookerhof.nl/) |
+| 6 | De Lodge | Grote-Spouwen (BE) | vakantiewoning | ca. 520 | n.v.t. | ca. 130 / n.v.t. | schatting | ? | Nespresso | ja | heuvel met uitzicht | [link](https://www.cozycozy.com/nl/vakantiehuis-limburg-provincie) |
+| 7 | Luxeverblijf Aan De Kook | Meerssen (NL) | gastenverblijf, 1 slaapkamer | ca. 520 | n.v.t. | ca. 130 / n.v.t. | schatting | ja, kitchenette | ? | ? | niet vermeld, eigen parkeerplek | [link](https://www.tripadvisor.com/HotelsList-Maastricht-Luxury-Bed-And-Breakfast-zfp31035710.html) |
+| 8 | Art Hotel Aachen Superior | Aken (DE) | 4-sterren, wellness | ca. 560 | ca. 680 | ca. 140 / ca. 170 | schatting | ? | ? | ? | gast: "sehr ruhig" | [link](https://www.hotelspecials.de/art-hotel-aachen-superior) |
+| 9 | Boutique Hotel LouLou | Berg en Terblijt (NL) | boutique | ca. 640 | ca. 760 | ca. 160 / ca. 190 | schatting | ? | ? | ? | verscholen in het heuvelland | [link](https://spots-and-spaces.nl/accommodatie/boutique-hotel-loulou/) |
+| 10 | Hotel Creusen | Epen (NL) | 4-sterrenhotel | ca. 660 | ca. 800 | ca. 165 / ca. 200 | schatting | ? | ? | ? | midden in het Heuvelland | [link](https://hotelcreusen.nl/hotel-creusen-luxe-vakantie-met-een-landelijke-twist/) |
+| 11 | Hotel Klein Zwitserland | Slenaken (NL) | wellnesssuite | ca. 780 | ca. 920 | ca. 195 / ca. 230 | schatting | ? | ? | ? | heuvels, bij de grens | [link](https://www.visitzuidlimburg.nl/overnachten/hotels/luxe-hotels/) |
 
-Invulregels: biedt het verblijf geen ontbijt aan, dan staat "n.v.t." bij *met ontbijt*. Zit ontbijt er altijd in, dan staat "n.v.t." bij *zonder ontbijt*.
+Buiten de bandbreedte vallen o.a. 't Einde (ca. 380, te goedkoop) en de duurdere suites en wellnesshotels (Voeren, Thermae 2000, Hoogenweerth, Kruisherenhotel, Neercanne, ca. 880 of meer). Bij hotels met ontbijt kan de prijs boven 800 uitkomen (Klein Zwitserland ca. 920). Bij verblijven met "n.v.t." bij ontbijt is dat een aanname: het zijn zelfvoorzienende verblijven waarvoor geen ontbijt is gevonden.
 
-!!! warning "Indicatie, geen offerte"
-    Dit zijn **schattingen** op basis van gangbare prijzen voor B&B's en studio's in Limburg, met een toeslag voor oud en nieuw. Ze zijn niet bij de verblijven nagevraagd en kunnen flink afwijken. Ontbijt is gerekend op circa 25 euro per nacht voor twee personen. Of ontbijt echt optioneel is, moet nog worden nagevraagd.
-
-| Verblijf | Per nacht met ontbijt | Per nacht zonder ontbijt | 4 nachten met ontbijt | 4 nachten zonder ontbijt |
-|---|---|---|---|---|
-| Gastenverblijf 't Einde | n.v.t. | ca. 95 | n.v.t. | ca. 380 |
-| B&B Brookerhof | ca. 140 | ca. 115 | ca. 560 | ca. 460 |
-| Het Kapelhuis | ca. 125 | ca. 100 | ca. 500 | ca. 400 |
-| Thorn B&B | ca. 130 | ca. 105 | ca. 520 | ca. 420 |
-| B&B bij Tante Toos | ca. 125 | ca. 100 | ca. 500 | ca. 400 |
-| De Lodge | n.v.t. | ca. 130 | n.v.t. | ca. 520 |
-| Ferienwohnung Südviertel | n.v.t. | ca. 100 | n.v.t. | ca. 400 |
-
-Totale bandbreedte voor 4 nachten: grofweg **380 tot 560 euro**. Bij 't Einde, De Lodge en Aken is "n.v.t." bij ontbijt een aanname: het zijn zelfvoorzienende verblijven waarvoor geen ontbijt is gevonden.
+Geen enkele kandidaat voldoet aantoonbaar aan alle eisen. Zelf ontbijt maken kan aantoonbaar bij Brookerhof (kitchenette met combi-magnetron) en Aan De Kook (kitchenette). 't Einde heeft ook een kitchenette met oven en magnetron, maar valt buiten de bandbreedte. De Lodge scoort op koffie en bed. Bij echte hotels (nr. 8 en hoger) is een magnetron of fornuis op de kamer ongebruikelijk en valt die eis waarschijnlijk af.
 
 Contact voor een echte prijs: Thorn B&B (info@thornbenb.nl, +31 6 11195050), Tante Toos (+31 6 39423082), Brookerhof (logeren@brookerhof.nl).
 
@@ -48,6 +39,6 @@ Contact voor een echte prijs: Thorn B&B (info@thornbenb.nl, +31 6 11195050), Tan
 
 ## Te doen
 
-- [ ] Per kandidaat mailen: magnetron, koffie/Senseo, tweepersoonsbed, beschikbaarheid 29 dec t/m 2 jan, minimumverblijf rond oud en nieuw
-- [ ] Prijs per nacht met en zonder ontbijt opvragen en in de prijstabel invullen
+- [ ] Per kandidaat mailen: zelf ontbijt maken (magnetron of fornuis), koffie/Senseo, tweepersoonsbed, beschikbaarheid 29 dec t/m 2 jan, minimumverblijf rond oud en nieuw
+- [ ] Prijs per nacht met en zonder ontbijt opvragen en de schattingen vervangen
 - [ ] Parkeren noteren

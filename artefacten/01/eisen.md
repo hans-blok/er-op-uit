@@ -8,7 +8,7 @@ Periode: di 29 dec 2026 t/m za 2 jan 2027 (4 nachten, incl. oud en nieuw).
 
 - [ ] Rustig gelegen
 - [ ] Tweepersoonsbed
-- [ ] Magnetron aanwezig
+- [ ] Magnetron of fornuis aanwezig
 - [ ] Koffie kunnen zetten (koffiezetapparaat of Senseo/Nespresso, waterkoker met koffie telt ook)
 - [ ] Beschikbaar voor alle 4 nachten
 
@@ -20,6 +20,6 @@ Periode: di 29 dec 2026 t/m za 2 jan 2027 (4 nachten, incl. oud en nieuw).
 
 ## Afvallers
 
-- Geen magnetron of geen koffie/waterkoker
+- Geen magnetron/fornuis of geen koffie/waterkoker
 - Alleen losse bedden
 - Minimumverblijf of nieuwjaarspakket dat niet past bij onze data
