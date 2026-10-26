@@ -11,19 +11,45 @@ Bandbreedte: **400 tot 800 euro** voor 4 nachten. Een verblijf staat erin als de
 
 Invulregels ontbijt: biedt het verblijf geen ontbijt aan, dan staat "n.v.t." bij *met ontbijt*. Zit ontbijt er altijd in, dan staat "n.v.t." bij *zonder ontbijt*. Ontbijt is gerekend op ca. 25 euro per nacht (B&B) of ca. 35 euro (hotel) voor twee personen.
 
-| # | Verblijf | Plaats | Segment | 4 nachten zonder ontbijt | 4 nachten met ontbijt | Basis prijs | Zelf ontbijt maken | Koffie | 2p-bed | Rustig | Bron |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Het Kapelhuis | Thorn (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | ? | ? | vredige sfeer, tuin | [link](https://www.trivago.com/en-US/oar/bed-breakfast-het-kapelhuis-thorn?search=100-4752372) |
-| 2 | B&B bij Tante Toos | Mamelis bij Vaals (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | ? | ? | ? | [link](https://www.benbbijtantetoos.nl/) |
-| 3 | Ferienwohnung Südviertel | Aken (DE) | vakantiewoning | ca. 400 | n.v.t. | schatting | ? | ? | boxspring 180x200 | water-beschermingsgebied achter huis | [link](https://www.ferienwohnungen.de/apartments/europa/deutschland/aachen) |
-| 4 | Thorn B&B | Thorn, Witte Stad (NL) | B&B | ca. 420 | ca. 520 | schatting | ? | ? | ? | centrum, vermoedelijk minder rustig | [link](https://www.thornbenb.nl/en/) |
-| 5 | B&B Brookerhof | Zuid-Limburg, rand Heuvelland (NL) | B&B | ca. 460 | ca. 560 | schatting | ja, kitchenette met combi-magnetron | ? | ja, 210 cm | rand Heuvelland | [link](https://brookerhof.nl/) |
-| 6 | De Lodge | Grote-Spouwen (BE) | vakantiewoning | ca. 520 | n.v.t. | schatting | ? | Nespresso | ja | heuvel met uitzicht | [link](https://www.cozycozy.com/nl/vakantiehuis-limburg-provincie) |
-| 7 | Luxeverblijf Aan De Kook | Meerssen (NL) | gastenverblijf, 1 slaapkamer | ca. 520 | n.v.t. | schatting | ja, kitchenette | ? | ? | niet vermeld, eigen parkeerplek | [link](https://www.tripadvisor.com/HotelsList-Maastricht-Luxury-Bed-And-Breakfast-zfp31035710.html) |
-| 8 | Art Hotel Aachen Superior | Aken (DE) | 4-sterren, wellness | ca. 560 | ca. 680 | schatting | ? | ? | ? | gast: "sehr ruhig" | [link](https://www.hotelspecials.de/art-hotel-aachen-superior) |
-| 9 | Boutique Hotel LouLou | Berg en Terblijt (NL) | boutique | ca. 640 | ca. 760 | schatting | ? | ? | ? | verscholen in het heuvelland | [link](https://spots-and-spaces.nl/accommodatie/boutique-hotel-loulou/) |
-| 10 | Hotel Creusen | Epen (NL) | 4-sterrenhotel | ca. 660 | ca. 800 | schatting | ? | ? | ? | midden in het Heuvelland | [link](https://hotelcreusen.nl/hotel-creusen-luxe-vakantie-met-een-landelijke-twist/) |
-| 11 | Hotel Klein Zwitserland | Slenaken (NL) | wellnesssuite | ca. 780 | ca. 920 | schatting | ? | ? | ? | heuvels, bij de grens | [link](https://www.visitzuidlimburg.nl/overnachten/hotels/luxe-hotels/) |
+<div class="hotels-table hotels-table--links" markdown="1">
+
+| # | 🔗 | Verblijf | Plaats | Segment | 4 nachten zonder ontbijt | 4 nachten met ontbijt | Basis prijs | Zelf ontbijt maken | Rustig |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | [🔗](https://www.trivago.com/en-US/oar/bed-breakfast-het-kapelhuis-thorn?search=100-4752372) | Het Kapelhuis | Thorn (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | vredige sfeer, tuin |
+| 2 | [🔗](https://www.benbbijtantetoos.nl/) | B&B bij Tante Toos | Mamelis bij Vaals (NL) | B&B | ca. 400 | ca. 500 | schatting | ? | ? |
+| 3 | [🔗](https://www.ferienwohnungen.de/apartments/europa/deutschland/aachen) | Ferienwohnung Südviertel | Aken (DE) | vakantiewoning | ca. 400 | n.v.t. | schatting | ? | water-beschermingsgebied achter huis |
+| 4 | [🔗](https://www.thornbenb.nl/en/) | Thorn B&B | Thorn, Witte Stad (NL) | B&B | ca. 420 | ca. 520 | schatting | ? | centrum, vermoedelijk minder rustig |
+| 5 | [🔗](https://brookerhof.nl/) | B&B Brookerhof | Zuid-Limburg, rand Heuvelland (NL) | B&B | ca. 460 | ca. 560 | schatting | ja, kitchenette met combi-magnetron | rand Heuvelland |
+| 6 | [🔗](https://www.cozycozy.com/nl/vakantiehuis-limburg-provincie) | De Lodge | Grote-Spouwen (BE) | vakantiewoning | ca. 520 | n.v.t. | schatting | ? | heuvel met uitzicht |
+| 7 | [🔗](https://www.tripadvisor.com/HotelsList-Maastricht-Luxury-Bed-And-Breakfast-zfp31035710.html) | Luxeverblijf Aan De Kook | Meerssen (NL) | gastenverblijf, 1 slaapkamer | ca. 520 | n.v.t. | schatting | ja, kitchenette | niet vermeld, eigen parkeerplek |
+| 8 | [🔗](https://www.hotelspecials.de/art-hotel-aachen-superior) | Art Hotel Aachen Superior | Aken (DE) | 4-sterren, wellness | ca. 560 | ca. 680 | schatting | ? | gast: "sehr ruhig" |
+| 9 | [🔗](https://spots-and-spaces.nl/accommodatie/boutique-hotel-loulou/) | Boutique Hotel LouLou | Berg en Terblijt (NL) | boutique | ca. 640 | ca. 760 | schatting | ? | verscholen in het heuvelland |
+| 10 | [🔗](https://hotelcreusen.nl/hotel-creusen-luxe-vakantie-met-een-landelijke-twist/) | Hotel Creusen | Epen (NL) | 4-sterrenhotel | ca. 660 | ca. 800 | schatting | ? | midden in het Heuvelland |
+| 11 | [🔗](https://www.visitzuidlimburg.nl/overnachten/hotels/luxe-hotels/) | Hotel Klein Zwitserland | Slenaken (NL) | wellnesssuite | ca. 780 | ca. 920 | schatting | ? | heuvels, bij de grens |
+
+</div>
+
+## Koffie, bed en wat opvalt
+
+Aanvullende uitrusting en indrukken per verblijf, in dezelfde volgorde als de tabel hierboven. ✅ = positief, ⚠️ = negatief of onbekend.
+
+<div class="hotels-table" markdown="1">
+
+| # | Verblijf | Koffie | 2p-bed | Opvallend |
+|---|---|---|---|---|
+| 1 | Het Kapelhuis | ? | ? | ✅ vredige sfeer en tuin in Thorn<br>⚠️ uitrusting onbekend, Trivago-pagina was niet leesbaar |
+| 2 | B&B bij Tante Toos | ? | ? | ✅ bedden van 2,10 m, ontbijt met streekproducten<br>⚠️ geen prijs, magnetron en koffie niet vermeld |
+| 3 | Ferienwohnung Südviertel | ? | boxspring 180x200 | ✅ boxspring 180x200, rustig door beschermd gebied achter het huis<br>⚠️ keuken noemt alleen waterkoker en broodrooster; Duitsland |
+| 4 | Thorn B&B | ? | ? | ✅ charmant in de Witte Stad, kamers "fully equipped"<br>⚠️ centrum, dus mogelijk minder rustig; uitrusting niet bevestigd |
+| 5 | B&B Brookerhof | ? | ja, 210 cm | ✅ enige met bevestigde magnetron én tweepersoonsbed, rand Heuvelland<br>⚠️ koffie niet vermeld, prijs onbekend |
+| 6 | De Lodge | Nespresso | ja | ✅ Nespresso en tweepersoonsbed, uitzicht over de vallei<br>⚠️ magnetron niet vermeld; Belgisch Limburg, verder rijden |
+| 7 | Luxeverblijf Aan De Kook | ? | ? | ✅ kitchenette en eigen parkeerplek<br>⚠️ rust niet vermeld, bed en koffie onbekend |
+| 8 | Art Hotel Aachen Superior | ? | ? | ✅ gast noemt het "sehr ruhig", wellness<br>⚠️ hotel: zelf ontbijt maken is onwaarschijnlijk; Duitsland |
+| 9 | Boutique Hotel LouLou | ? | ? | ✅ kleinschalig en verscholen in het heuvelland<br>⚠️ hotel: zelf ontbijt maken onwaarschijnlijk, uitrusting onbekend |
+| 10 | Hotel Creusen | ? | ? | ✅ landelijk in het Heuvelland, ook appartementen<br>⚠️ met ontbijt ca. 800, dus aan de bovengrens |
+| 11 | Hotel Klein Zwitserland | ? | ? | ✅ wellnesssuite, boutique-sfeer en wandelroutes<br>⚠️ met ontbijt ca. 920, boven de bandbreedte; zelf ontbijt maken onwaarschijnlijk |
+
+</div>
 
 Buiten de bandbreedte vallen o.a. 't Einde (ca. 380, te goedkoop) en de duurdere suites en wellnesshotels (Voeren, Thermae 2000, Hoogenweerth, Kruisherenhotel, Neercanne, ca. 880 of meer). Bij hotels met ontbijt kan de prijs boven 800 uitkomen (Klein Zwitserland ca. 920). Bij verblijven met "n.v.t." bij ontbijt is dat een aanname: het zijn zelfvoorzienende verblijven waarvoor geen ontbijt is gevonden.
 
